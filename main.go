@@ -16,5 +16,5 @@ func main() {
 	}()
 
 	someFunction()
-	fmt.Println("hello world")
+
 }
